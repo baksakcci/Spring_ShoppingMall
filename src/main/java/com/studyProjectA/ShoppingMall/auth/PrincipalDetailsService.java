@@ -1,8 +1,8 @@
 package com.studyProjectA.ShoppingMall.auth;
 
 
-import com.studyProjectA.ShoppingMall.Entity.User;
-import com.studyProjectA.ShoppingMall.Repository.UserRepository;
+import com.studyProjectA.ShoppingMall.entity.User;
+import com.studyProjectA.ShoppingMall.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

@@ -1,6 +1,6 @@
-package com.studyProjectA.ShoppingMall.Configuration;
+package com.studyProjectA.ShoppingMall.config;
 
-import com.studyProjectA.ShoppingMall.Repository.UserRepository;
+import com.studyProjectA.ShoppingMall.repository.UserRepository;
 import com.studyProjectA.ShoppingMall.jwt.JwtAuthenticationFilter;
 import com.studyProjectA.ShoppingMall.jwt.JwtAuthorizationFilter;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
-package com.studyProjectA.ShoppingMall.Repository;
+package com.studyProjectA.ShoppingMall.repository;
 
-import com.studyProjectA.ShoppingMall.Entity.User;
+import com.studyProjectA.ShoppingMall.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Integer> {
