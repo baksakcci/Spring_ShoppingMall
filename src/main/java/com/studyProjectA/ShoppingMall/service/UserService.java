@@ -1,10 +1,9 @@
-package com.studyProjectA.ShoppingMall.UserService;
+package com.studyProjectA.ShoppingMall.service;
 
-import com.studyProjectA.ShoppingMall.Dto.RegisterDto;
-import com.studyProjectA.ShoppingMall.Entity.User;
-import com.studyProjectA.ShoppingMall.Repository.UserRepository;
+import com.studyProjectA.ShoppingMall.dto.RegisterDto;
+import com.studyProjectA.ShoppingMall.entity.User;
+import com.studyProjectA.ShoppingMall.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.security.core.parameters.P;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 

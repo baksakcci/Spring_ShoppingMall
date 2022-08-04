@@ -1,6 +1,6 @@
 package com.studyProjectA.ShoppingMall.auth;
 
-import com.studyProjectA.ShoppingMall.Entity.User;
+import com.studyProjectA.ShoppingMall.entity.User;
 import lombok.Data;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

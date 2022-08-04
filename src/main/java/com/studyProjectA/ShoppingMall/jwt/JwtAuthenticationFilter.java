@@ -3,7 +3,7 @@ package com.studyProjectA.ShoppingMall.jwt;
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.studyProjectA.ShoppingMall.Entity.User;
+import com.studyProjectA.ShoppingMall.entity.User;
 import com.studyProjectA.ShoppingMall.auth.PrincipalDetails;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;

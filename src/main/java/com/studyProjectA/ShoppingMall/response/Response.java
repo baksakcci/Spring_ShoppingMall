@@ -1,4 +1,4 @@
-package com.studyProjectA.ShoppingMall.Response;
+package com.studyProjectA.ShoppingMall.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;

@@ -1,8 +1,8 @@
-package com.studyProjectA.ShoppingMall.Controller;
+package com.studyProjectA.ShoppingMall.controller;
 
-import com.studyProjectA.ShoppingMall.Dto.RegisterDto;
-import com.studyProjectA.ShoppingMall.Response.Response;
-import com.studyProjectA.ShoppingMall.UserService.UserService;
+import com.studyProjectA.ShoppingMall.dto.RegisterDto;
+import com.studyProjectA.ShoppingMall.response.Response;
+import com.studyProjectA.ShoppingMall.service.UserService;
 import io.swagger.annotations.ApiOperation;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

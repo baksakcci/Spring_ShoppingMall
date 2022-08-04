@@ -1,6 +1,6 @@
-package com.studyProjectA.ShoppingMall.Controller;
+package com.studyProjectA.ShoppingMall.advice;
 
-import com.studyProjectA.ShoppingMall.Response.Response;
+import com.studyProjectA.ShoppingMall.response.Response;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
